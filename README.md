@@ -1,5 +1,3 @@
-# SIR-Model
-
 # SIR_MODEL
 
 <div align = "center"> -by Siddhant Yadav </div>

@@ -1,6 +1,6 @@
 # SIR_MODEL
 
-### <div align = "center"> -by Siddhant Yadav </div>
+### <div align = "center"> -by Siddhant Yadav & Sarthak Walia </div>
 Live Web_App coming soon on: _____________________________.com
 
 # master_data.py
